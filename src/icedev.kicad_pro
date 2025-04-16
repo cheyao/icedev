@@ -669,6 +669,14 @@
     [
       "605ab4fa-fda6-4ccc-9531-17ccef7d120f",
       "Root"
+    ],
+    [
+      "18430763-192c-4fea-b7b6-3d576a3ab663",
+      "io"
+    ],
+    [
+      "191ad243-1a22-4eef-8fcd-eff5b4a6565e",
+      "ice40"
     ]
   ],
   "text_variables": {}
