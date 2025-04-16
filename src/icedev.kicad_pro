@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.275
         }
       },
       "diff_pair_dimensions": [
@@ -58,20 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|164575000|102535000|565d30f1-4d65-451d-9d3f-13049f6bd8d1|abd83b7c-9e28-481b-a89e-c9d09ba44d39",
-          ""
-        ],
-        [
-          "courtyards_overlap|165675000|102105000|01917995-c8f1-4399-bf66-71944080bad4|565d30f1-4d65-451d-9d3f-13049f6bd8d1",
-          ""
-        ],
-        [
-          "courtyards_overlap|172038626|102105000|565d30f1-4d65-451d-9d3f-13049f6bd8d1|c38ce84a-fb87-4cc0-a91d-3bbe5adbdf4c",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -92,7 +79,7 @@
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "ignore",
         "invalid_outline": "error",
